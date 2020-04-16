@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: One Click Master
- * Description: Get current template name on adminbar. It also shows woredpress current version and the current theme name.
+ * Description: Get maximum support by just one click. Get posts name and url by one single click at post list in dashboard.
  * Version: 1.0.0
  * Author: Nazrul Islam Nayan
  * Text Domain: one-click-master
